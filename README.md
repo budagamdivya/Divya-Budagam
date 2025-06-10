@@ -5,7 +5,6 @@ Hello there, I am Divya Budagam
 
 🔖 Customer Centric,Enthusiastic about solving Business problems with Data Visualization & Analysis and Business Processes
 
-📄 Know about my experiences: [Resume.pdf]
-
+📄 Know about my experiences: [Resume.pdf](https://github.com/user-attachments/files/20678421/Resume.pdf)
 
 📥 Reach out to me: dbudagam3@gmail.com
